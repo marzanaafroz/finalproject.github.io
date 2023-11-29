@@ -58,6 +58,7 @@ body {
     min-height: 100%; /* Minimum height of the container is the full viewport */
 }
 footer {
+    position:fixed;
     padding: 10px;
     text-align: center;
     background-color: #A3B5BB;
