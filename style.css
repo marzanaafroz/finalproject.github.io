@@ -5,7 +5,7 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: #1C3173;
+    background-color: #274C77;
     text-align: center; /* Center align navigation bar */
 }
 
@@ -61,7 +61,7 @@ footer {
     position:fixed;
     padding: 10px;
     text-align: center;
-    background-color: #A3B5BB;
+    background-color: #888C80;
     text-colour: #fff;
     bottom: 0;
     width: 100%;/* Example padding, adjust as needed */
