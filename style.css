@@ -58,9 +58,10 @@ body {
     min-height: 100%; /* Minimum height of the container is the full viewport */
 }
 footer {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
-    background-color: #8DA399;
+    background-color: #A3B5BB;
+    text-colour: #fff;
     bottom: 0;
     width: 100%;/* Example padding, adjust as needed */
 }
