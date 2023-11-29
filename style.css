@@ -1,17 +1,17 @@
 body {
     font-family: Arial, sans-serif;
+    text-align: center; /* Center align text */
 }
 
 .navbar {
     overflow: hidden;
     background-color: #333;
+    text-align: center; /* Center align navigation bar */
 }
 
 .navbar a {
-    float: left;
-    display: block;
+    display: inline-block; /* Change to inline-block for centering */
     color: #f2f2f2;
-    text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
