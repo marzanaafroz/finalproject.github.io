@@ -21,6 +21,34 @@ body {
     color: black;
 }
 
+/* !!!!!!!Testing a little css.!!!!!!!!!!!!! */
+
+.main-content, .references {
+    width: 80%;
+    max-width: 800px; /* Maximum width */
+    margin: 20px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ddd; /* Light gray border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.image-section {
+    text-align: center;
+    padding: 10px;
+}
+
+.image-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-content, .references {
+    text-align: left;
+}
+
+/* !!!!!!!!!!!Test End!!!!!!!!!!!!! */
+
 .content {
     margin-top: 20px;
 }
