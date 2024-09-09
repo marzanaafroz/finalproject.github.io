@@ -1,4 +1,4 @@
-# Final Project
+Deep Fake AI Project
 IT-304-DL3
 Estifanos Zemene
 ALeeza Zainab
