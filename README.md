@@ -1,9 +1,5 @@
-Deep Fake AI Project
-IT-304-DL3
-Estifanos Zemene
-ALeeza Zainab
-Marzana
-Saurav Mishra
+# **Deep Fake AI Project**
+
 
 Following this Example:
 https://www.nature.com/articles/d41586-023-02990-y 
